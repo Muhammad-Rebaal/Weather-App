@@ -11,7 +11,7 @@ This is a simple weather app that fetches weather data from the OpenWeatherMap A
 
 1. Clone the repo:
 
-git clone https://github.com/[your-username]/weather-app.git
+git clone https://github.com/Muhammad-Rebaal/Weather-App.git
 
 
 2. Install the dependencies:
